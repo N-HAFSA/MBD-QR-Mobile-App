@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8303365321",
+    "firebase_url": "https://cbir-60aa4-default-rtdb.firebaseio.com",
+    "project_id": "cbir-60aa4",
+    "storage_bucket": "cbir-60aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8303365321:android:1849666ecb870966479118",
+        "android_client_info": {
+          "package_name": "com.mbd.qr_scanner_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8303365321-knimcig40oo5eip9hbfit6nu9t4cj052.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAipvNpd9JVjYa276IyKg2jknkZaF_61t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8303365321-knimcig40oo5eip9hbfit6nu9t4cj052.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
